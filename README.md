@@ -1,4 +1,4 @@
-# gurtegsingh2999.github.io
+# Welcome
 
 [View My Resume](resume.html)
 
