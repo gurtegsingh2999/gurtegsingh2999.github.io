@@ -4,13 +4,9 @@
 
 ## About Me
 
-Insert a brief description of yourself and your background here. You can also include a screenshot of your website or provide a link to your GitHub Pages website.
+Hi! I'm Gurteg Singh, a data scientist @ verizon and a masters student at Georgia Tech. 
 
 ![Screenshot](screenshot.png)
-
-## Other Introductory Pages
-
-List any other introductory pages you have on your web profile, such as projects, blog, or contact information.
 
 ## Welcome
 
