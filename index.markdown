@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-author: Kaustubh Deshpande
+author: Gurteg Singh
 title: "<span style='font-size:0.8em; margin-left: 15%;'>Trustworthy & Impactful Artificial Intelligence</span>"
 author_profile: true
 header:
