@@ -1,0 +1,108 @@
+.page__hero--overlay {
+    padding: 4.1em 0;
+  }
+
+  // img[alt=Research] {
+  //   background: url("/research")
+  //   url("/research")
+  // }
+
+
+.archive__item-teaser{
+    max-height: 30.5vh;
+    max-width: 100%;
+  }
+  
+img[src~="lim_height"]{
+    max-height: 30vh;
+  }
+
+h2 {
+    color: rgb(5, 58, 170);}
+
+p {
+
+  strong {
+    color: black;
+  }
+
+}
+
+a {
+  color:rgb(29, 128, 194);
+  &:visited {
+    color: rgb(29, 128, 194);
+  }
+}
+
+li {
+  color:black;
+}
+
+h3 {
+  color: black;
+}
+
+.btn--primary {
+  background-color: black;
+}
+
+.btn--primary:visited {
+  background-color:black;
+}
+
+.navLogo{
+  height: 2.5rem;
+}
+.archive {
+  p {
+    font-size: 1rem;
+  }
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+  }
+
+.greedy-nav a {
+  display: block;
+  position: relative;
+  margin: 0 0.95rem;
+  color:rgb(5, 58, 170);
+  font-weight: 420;
+}
+
+body {
+  color: black;
+}
+
+
+.greedy-nav .visible-links a:before {
+  background: black;
+}
+
+.greedy-nav a:hover {
+  display: block;
+  color: black;
+}
+
+.btn--primary:hover {
+  background-color: rgb(5, 58, 170);
+}
+
+.page__footer-copyright {
+  font-size: 0.75em;
+  color: rgb(5, 141, 231);
+  font-weight: 350;
+}
+
+.masthead__inner-wrap {
+  padding: 12px;
+}
+
+.page__content h2 {
+  padding-bottom: 0.1em;
+  padding-top: 0.1em;
+}
